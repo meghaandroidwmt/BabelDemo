@@ -8,6 +8,7 @@ let userInfo = {
     name: "megha",
     age: "22",
 
+
     "education": {
         school: "H. B. Vidhyalaya",
         college: "Ganpat Univercity"
