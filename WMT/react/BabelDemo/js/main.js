@@ -15,6 +15,7 @@ let userInfo = {
 };
 let {name, age} = userInfo;
 
+
 alert(getName(name));
 
 let {school} = userInfo.education;
